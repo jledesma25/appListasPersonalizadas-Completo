@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">appListas</string>
+    <string name="activity_main_titulo">Lista de Alumnos</string>
+    <string name="activity_main_action_delete">Delete All</string>
+</resources>
